@@ -110,10 +110,12 @@ namespace Renovators
             renovator.Hired = true;
             return renovator;
         }
+        
         public List<Renovator> PayRenovators(int days)
         {
             return this.renovators.Where(r => r.Days >= days).ToList();
         }
+        
         public string Report()
         {
             StringBuilder sb = new StringBuilder();
