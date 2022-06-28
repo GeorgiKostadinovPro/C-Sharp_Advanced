@@ -1,5 +1,5 @@
 # Softuni_C#_Advanced
-This is a repository where I upload all my exercises, exams and certificates from the Programming basics module in Software University ( Sofia, Bulgaria ).
+This is a repository where I upload all my exercises, exams and certificates from the C# Advanced module in Software University ( Sofia, Bulgaria ).
 
 C# Advanced Exam - 300/300 points.
 
