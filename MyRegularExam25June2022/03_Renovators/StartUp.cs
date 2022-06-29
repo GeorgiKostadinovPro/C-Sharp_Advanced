@@ -82,7 +82,6 @@ namespace Renovators
             --Specialty: Furniture
             --Rate per day: 300 BGN
             */
-
         }
     }
 }
