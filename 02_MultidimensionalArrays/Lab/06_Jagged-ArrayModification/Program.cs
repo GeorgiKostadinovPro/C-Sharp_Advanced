@@ -36,7 +36,7 @@ namespace _06_JaggedArrayModification
                 {
                     Console.WriteLine("Invalid coordinates");
                 }
-                else if (col > matrix.ElementAt(row).Length - 1 || col < 0)
+                else if (col > matrix[row].Length - 1 || col < 0)
                 {
                     Console.WriteLine("Invalid coordinates");
                 }
