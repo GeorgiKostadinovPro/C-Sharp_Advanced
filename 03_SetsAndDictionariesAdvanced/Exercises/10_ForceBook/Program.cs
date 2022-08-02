@@ -8,11 +8,11 @@ namespace _10_ForceBook
     {
         public static void Main(string[] args)
         {
-            string line = string.Empty;
-            
+             string line = string.Empty;
+
             Dictionary<string, string> forceUsers = new Dictionary<string, string>();
-            Dictionary<string, List<string>> forceSideMemebers = new Dictionary<string, List<string>>();
-            
+            Dictionary<string, List<string>> forceSideMembers = new Dictionary<string, List<string>>();
+
             while ((line = Console.ReadLine()) != "Lumpawaroo")
             {
 
@@ -50,15 +50,15 @@ namespace _10_ForceBook
 
             foreach (var forceUser in forceUsers)
             {
-                if (!forceSideMemebers.ContainsKey(forceUser.Value))
+                if (!forceSideMembers.ContainsKey(forceUser.Value))
                 {
-                    forceSideMemebers.Add(forceUser.Value, new List<string>());
+                    forceSideMembers.Add(forceUser.Value, new List<string>());
                 }
 
-                forceSideMemebers[forceUser.Value].Add(forceUser.Key);
+                forceSideMembers[forceUser.Value].Add(forceUser.Key);
             }
 
-            foreach (var forceSide in forceSideMemebers.OrderByDescending(s => s.Value.Count).ThenBy(s => s.Key))
+            foreach (var forceSide in forceSideMembers.OrderByDescending(s => s.Value.Count).ThenBy(s => s.Key))
             {
                 Console.WriteLine($"Side: {forceSide.Key}, Members: {forceSide.Value.Count}");
 
