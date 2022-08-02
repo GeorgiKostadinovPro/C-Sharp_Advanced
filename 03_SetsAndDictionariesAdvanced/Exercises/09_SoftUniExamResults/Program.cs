@@ -30,14 +30,14 @@ namespace _09_SoftUniExamResults
 
                 if (!userPoints.ContainsKey(user))
                 {
-                    userPoints[user] = 0;
+                     userPoints.Add(user, 0);
                 }
 
                 userPoints[user] = Math.Max(userPoints[user], points);
 
                 if (!submissions.ContainsKey(languageOrBan))
                 {
-                    submissions[languageOrBan] = 0;
+                    submissions.Add(languageOrBan, 0);
                 }
 
                 submissions[languageOrBan] += 1;
