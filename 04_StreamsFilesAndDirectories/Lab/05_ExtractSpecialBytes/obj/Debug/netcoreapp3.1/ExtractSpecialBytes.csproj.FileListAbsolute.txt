@@ -1,0 +1,14 @@
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.exe
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.deps.json
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.runtimeconfig.json
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.runtimeconfig.dev.json
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.dll
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.pdb
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.csproj.AssemblyReference.cache
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.AssemblyInfoInputs.cache
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.AssemblyInfo.cs
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.dll
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.pdb
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.genruntimeconfig.cache

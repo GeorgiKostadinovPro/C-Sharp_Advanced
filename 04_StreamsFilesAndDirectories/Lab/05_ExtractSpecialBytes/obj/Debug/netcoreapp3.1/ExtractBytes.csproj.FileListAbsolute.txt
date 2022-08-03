@@ -1,0 +1,14 @@
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\ExtractBytes\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.exe
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\ExtractBytes\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.deps.json
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\ExtractBytes\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.runtimeconfig.json
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\ExtractBytes\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.runtimeconfig.dev.json
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\ExtractBytes\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.dll
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\ExtractBytes\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.pdb
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\ExtractBytes\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.csproj.AssemblyReference.cache
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\ExtractBytes\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\ExtractBytes\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.AssemblyInfoInputs.cache
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\ExtractBytes\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.AssemblyInfo.cs
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\ExtractBytes\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\ExtractBytes\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.dll
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\ExtractBytes\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.pdb
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\05_ExtractSpecialBytes\ExtractBytes\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.genruntimeconfig.cache
