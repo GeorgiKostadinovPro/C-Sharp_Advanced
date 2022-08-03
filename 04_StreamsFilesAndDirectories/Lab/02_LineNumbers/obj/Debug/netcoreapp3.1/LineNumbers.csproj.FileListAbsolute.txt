@@ -1,0 +1,14 @@
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\02_LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\02_LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\02_LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\02_LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\02_LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\02_LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\02_LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\02_LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\02_LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\02_LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\02_LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\02_LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\02_LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\02_LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache
