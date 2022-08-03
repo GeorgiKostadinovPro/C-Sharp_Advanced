@@ -1,0 +1,14 @@
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\04_MergeTextFiles\bin\Debug\netcoreapp3.1\MergeFiles.exe
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\04_MergeTextFiles\bin\Debug\netcoreapp3.1\MergeFiles.deps.json
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\04_MergeTextFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.json
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\04_MergeTextFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.dev.json
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\04_MergeTextFiles\bin\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\04_MergeTextFiles\bin\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\04_MergeTextFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.AssemblyReference.cache
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\04_MergeTextFiles\obj\Debug\netcoreapp3.1\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\04_MergeTextFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfoInputs.cache
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\04_MergeTextFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfo.cs
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\04_MergeTextFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\04_MergeTextFiles\obj\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\04_MergeTextFiles\obj\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Users\George\Desktop\04_StreamsFilesAndDirectories\Lab\04_MergeTextFiles\obj\Debug\netcoreapp3.1\MergeFiles.genruntimeconfig.cache
