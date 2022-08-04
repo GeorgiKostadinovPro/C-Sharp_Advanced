@@ -1,0 +1,14 @@
+C:\Users\George\Desktop\Exercises\03_CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.exe
+C:\Users\George\Desktop\Exercises\03_CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.deps.json
+C:\Users\George\Desktop\Exercises\03_CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.json
+C:\Users\George\Desktop\Exercises\03_CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\George\Desktop\Exercises\03_CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Users\George\Desktop\Exercises\03_CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Users\George\Desktop\Exercises\03_CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.AssemblyReference.cache
+C:\Users\George\Desktop\Exercises\03_CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Desktop\Exercises\03_CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\George\Desktop\Exercises\03_CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\George\Desktop\Exercises\03_CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Exercises\03_CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Users\George\Desktop\Exercises\03_CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Users\George\Desktop\Exercises\03_CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.genruntimeconfig.cache
