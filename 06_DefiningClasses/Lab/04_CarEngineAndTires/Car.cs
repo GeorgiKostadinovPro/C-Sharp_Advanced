@@ -88,15 +88,15 @@ namespace CarManufacturer
 
         public void Drive(double distance)
         {
-            double neededFuel = this.FuelQuantity - distance * this.FuelConsumption;
+            double leftFuel = this.FuelQuantity - (this.FuelConsumption / 100.0) * distance;
 
-            if (neededFuel < 0)
+            if (leftFuel < 0)
             {
                 Console.WriteLine("Not enough fuel to perform this trip!");
                 return;
             }
 
-            this.FuelQuantity -= distance * this.FuelConsumption;
+            this.FuelQuantity = leftFuel;
         }
 
         public string WhoAmI()
