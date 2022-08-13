@@ -12,6 +12,7 @@ namespace GenericCountMethodString
         {
             this.Items = new List<T>();
         }
+        
         public List<T> Items { get; private set; }
 
         public void Swap(int first, int second)
