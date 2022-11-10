@@ -15,7 +15,6 @@ namespace _10_ForceBook
 
             while ((line = Console.ReadLine()) != "Lumpawaroo")
             {
-
                 if (line.Contains("|"))
                 {
                     string[] cmdArgs = line
