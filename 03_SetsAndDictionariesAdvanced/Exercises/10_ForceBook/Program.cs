@@ -8,7 +8,7 @@ namespace _10_ForceBook
     {
         public static void Main(string[] args)
         {
-             string line = string.Empty;
+            string line = string.Empty;
 
             Dictionary<string, string> forceUsers = new Dictionary<string, string>();
             Dictionary<string, List<string>> forceSideMembers = new Dictionary<string, List<string>>();
